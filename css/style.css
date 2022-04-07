@@ -1,0 +1,27 @@
+body {
+    background-color: #909090;
+}
+h1, h2, h3, p {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+div a {
+    display: inline-flex;
+    padding: 5px;
+}
+.text-blue {
+    color: blue;
+}
+.text-purple {
+    color: purple;
+}
+.text-green {
+    color: green;
+}
+ul {
+    display: block;
+    text-align: center;
+    list-style-position: inside
+}
